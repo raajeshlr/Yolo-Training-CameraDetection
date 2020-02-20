@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>photo114.jpg</filename>
+  <path>D:\MOOC\EVARepository\Session16Project\Yolo-Training-GoogleColab-master - Copyold\data_converstion\main\input\photo114.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>184</width>
+    <height>274</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>camera</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11</xmin>
+      <ymin>125</ymin>
+      <xmax>172</xmax>
+      <ymax>265</ymax>
+    </bndbox>
+  </object>
+</annotation>
